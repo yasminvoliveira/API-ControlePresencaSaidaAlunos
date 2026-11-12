@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "matricula": "2026A01",
+    "nome": "CARLOS EDUARDO SILVA",
+    "turma": "3A",
+    "data": "2026-10-23",
+    "presente": true,
+    "motivoSaida": "BANHEIRO",
+    "minutosFora": 8,
+    "alertaTempo": false
+  },
+  {
+    "id": 2,
+    "matricula": "202376",
+    "nome": "YASMIN VITÓRIA OLIVEIRA",
+    "turma": "2B",
+    "data": "2026-10-23",
+    "presente": true,
+    "motivoSaida": "COORDERNAÇÃO",
+    "minutosFora": 10,
+    "alertaTempo": false
+  },
+  {
+    "id": 4,
+    "matricula": "2394856",
+    "nome": "BEATRIZ GODOY",
+    "turma": "2A",
+    "data": "2026-10-23",
+    "presente": true,
+    "motivoSaida": "COORDENAÇÃO",
+    "minutosFora": 12,
+    "alertaTempo": false
+  },
+  {
+    "id": 5,
+    "matricula": "202457",
+    "nome": "ANA VITÓRIA AYRES",
+    "turma": "3B",
+    "data": "2026-10-23",
+    "presente": true,
+    "motivoSaida": "BANHEIRO",
+    "minutosFora": 5,
+    "alertaTempo": false
+  },
+  {
+    "id": 6,
+    "matricula": "2026A08",
+    "nome": "MARIA JÚLIA DA SILVA",
+    "turma": "3A",
+    "data": "2026-10-25",
+    "presente": true,
+    "motivoSaida": "BANHEIRO",
+    "minutosFora": 5,
+    "alertaTempo": false
+  },
+  {
+    "id": 7,
+    "matricula": "2026A08",
+    "nome": "ISABELA",
+    "turma": "3A",
+    "data": "2026-10-25",
+    "presente": true,
+    "motivoSaida": "BANHEIRO",
+    "minutosFora": 5,
+    "alertaTempo": false
+  }
+]
